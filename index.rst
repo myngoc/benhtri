@@ -67,7 +67,7 @@ Bệnh trĩ
 
 khi bị trĩ, bạn sẽ cảm thấy ngứa hoặc kích thích ở vùng lỗ đít do dịch nhầy từ sự bài xuất của niêm mạc ống hậu môn
 
-6. Biến chứng của bệnh trĩ</h2>
+6. Biến chứng của bệnh trĩ
 ======
 
 Biến chứng của bệnh trĩ thì rất hãn hữu nhưng vẫn mang thể xảy ra bao gồm:
