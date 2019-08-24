@@ -1,5 +1,7 @@
-<html>
-<h1>1. Bệnh trĩ là gì?</h1>
+=====
+1. Bệnh trĩ là gì?
+======
+
 Bệnh trĩ ko chỉ thuần tuý là bệnh của tĩnh mạch. Đây là những bệnh của một hệ thống mạch máu từ tiểu động mạch, tĩnh mạch, thông nối động tĩnh mạch tới cơ suôn sẻ và mô liên kết được lót bởi lớp biểu mô thường ngày của ống hậu môn. Đám rối tĩnh mạch nằm ở lớp dưới niêm được nâng đỡ bởi cấu trúc mô sợi đàn hồi. Hiện trạng gia tăng áp lực thường xuyên như rặn đi cầu, kèm ứ máu liên tục sẽ dẫn tới phình giãn và tạo các búi trĩ vào trong lòng ống lỗ đít. Song song càng to tuổi, các cấu trúc mô kết liên nâng đỡ ngày một bị suy yếu, các búi trĩ tụt dần ra khỏi lỗ lỗ đít dẫn đến trĩ nội sa.
 
 
