@@ -1,10 +1,9 @@
-<html>
-<h1>1. Bệnh trĩ là gì?</h1>
+1. Bệnh trĩ là gì?
 Bệnh trĩ ko chỉ thuần tuý là bệnh của tĩnh mạch. Đây là những bệnh của một hệ thống mạch máu từ tiểu động mạch, tĩnh mạch, thông nối động tĩnh mạch tới cơ suôn sẻ và mô liên kết được lót bởi lớp biểu mô thường ngày của ống hậu môn. Đám rối tĩnh mạch nằm ở lớp dưới niêm được nâng đỡ bởi cấu trúc mô sợi đàn hồi. Hiện trạng gia tăng áp lực thường xuyên như rặn đi cầu, kèm ứ máu liên tục sẽ dẫn tới phình giãn và tạo các búi trĩ vào trong lòng ống lỗ đít. Song song càng to tuổi, các cấu trúc mô kết liên nâng đỡ ngày một bị suy yếu, các búi trĩ tụt dần ra khỏi lỗ lỗ đít dẫn đến trĩ nội sa.
 
 
 
-<h2>2. Phân dòng bệnh trĩ</h2>
+2. Phân dòng bệnh trĩ
 Trĩ cốt yếu sở hữu 2 dòng, bao gồm trĩ nội (internal hemorrhoids) và trĩ ngoại (external hemorrhoids) .
 
 Trĩ ngoại: lúc búi trĩ xuất hành phía dưới trục đường lược (hay còn gọi là trục đường hậu môn-trực tràng), được gọi là trĩ ngoại. Lúc này búi trĩ được phủ bởi lớp biểu mô vảy (squamous epithelium) và nằm bên dưới lớp da bao quanh co lỗ đít.
@@ -18,14 +17,14 @@ Trĩ độ 4: búi trĩ sắp như không xuyên nằm ngoài ống hậu môn.
 
 Các cấp độ thường gặp ở bệnh trĩ
 
-<h2>3. Nhân tố nguy cơ gây bệnh trĩ<h2>
+3. Nhân tố nguy cơ gây bệnh trĩ
 Táo bón, hoặc đi tả làm nâng cao tần suất bệnh trĩ, rặn làm cho nâng cao áp lực lên các tĩnh mạch gây căng giãn và ứ máu.
 Chế độ ăn ít chất xơ, khiến cho tăng tần suất bệnh trĩ
 Thừa cân và béo phì, khiến gia tăng tần suất bệnh
 Gia tăng sức ép ổ bụng gặp trong các người thường xuyên cần lao nặng như khuân vác, vận khích lệ cử tạ, quần vợt,..., đứng lâu, ngồi đa dạng như thư ký, thợ may, nhân viên bán hàng khiến gia tăng sức ép ổ bụng cản trở sự hồi lưu máu về tim đưa tới giãn tĩnh mạch hậu môn.
 U vùng tiểu khung bao gồm u đại trực tràng, u ở tử cung và thai rộng rãi tháng làm cản trở hồi lưu máu trở về tim gây giãn tĩnh mạch.
 
-<h2>4. Nguồn gốc gây bệnh trĩ</h2>
+4. Nguồn gốc gây bệnh trĩ
 những tĩnh mạch quanh đó lỗ đít với xu thế căng dưới áp lực và với thể phồng lên hoặc sung huyết. Búi trĩ mang thể lớn mạnh do áp lực gia nâng cao ở phần dưới trực tràng do:
 
 Rặn lúc đi cầu
@@ -40,13 +39,14 @@ Bệnh trĩ
 
 Ngồi lâu trên bồn cầu cũng là 1 duyên cớ của bệnh trĩ
 
-<h2>5. Triệu chứng của bệnh trĩ</h2>
+5. Triệu chứng của bệnh trĩ
 các tín hiệu và triệu chứng của trĩ có thể bao gồm:
 
 Chảy máu ko kèm đau trong thời kỳ đi tiêu. Ban đầu sở hữu thể thấy 1 lượng kín đáo máu đỏ tươi trên giấy vệ sinh hoặc trong bồn cầu. Chảy máu là triệu chứng sớm nhất và thường gặp nhất. Về sau lúc rặn phổ thông thì máu chảy thành giọt hay thành tia. Nặng hơn là khi ngồi chồm hổm cũng chảy máu.
 Ngứa hoặc kích thích ở vùng lỗ đít do dịch nhầy từ sự bài xuất của niêm mạc ống hậu môn.
 Đau hoặc khó chịu, chao đảo từ ko đau, đau ít tới rất đau do nứt hậu môn, tắc hoặc nghẹt.
 Sưng vùng quanh co hậu môn
+
 1 khối nhô lên sắp lỗ đít, rát hoặc đau (có thể là huyết khối tại búi trĩ)
 Triệu chứng trĩ thường phụ thuộc vào vị trí:
 
@@ -57,7 +57,7 @@ Bệnh trĩ
 
 khi bị trĩ, bạn sẽ cảm thấy ngứa hoặc kích thích ở vùng lỗ đít do dịch nhầy từ sự bài xuất của niêm mạc ống hậu môn
 
-<h2>6. Biến chứng của bệnh trĩ</h2>
+6. Biến chứng của bệnh trĩ
 
 Biến chứng của bệnh trĩ thì rất hãn hữu nhưng vẫn mang thể xảy ra bao gồm:
 
@@ -66,7 +66,7 @@ Nghẹt búi trĩ giả dụ búi trĩ sa và bị mắc kẹt khiến cho huy�
 Tắc mạch: Là tình trạng hình thành cục máu đông bên trong huyết quản của búi trĩ. Khi huyết mạch bị giãn phồng và ứ máu do rặn, bưng vác nặng, có thai, chơi thể thao nặng làm cho tăng áp lực trong khoang bụng sẽ tạo điều kiện tiện dụng hình thành cục máu đông gây tắc mạch. Tắc mạch trĩ ngoại thì vùng rìa hậu môn sẽ thấy khối phồng nhỏ màu xanh, đi kèm cảm giác đau rát khi sờ, căng. Tắc mạch trong trĩ nội thì với cảm giác đau và cộm trong sâu và triệu chứng ko rầm rộ như trĩ ngoại.
 Viêm da vòng quanh lỗ đít, viêm nhú và viêm khe khi da giữa những búi trĩ bị loét gây triệu chứng ngứa ngáy, nóng rát.
 
-<h2>7. Điều trị bệnh trĩ</h2>
+7. Điều trị bệnh trĩ
 áp dụng cho trường hợp trĩ với triệu chứng
 
 <h3>7.1 Điều trị nội khoa</h3>
@@ -77,7 +77,7 @@ Chế độ ăn phổ quát chất xơ là cách điều trị hữu hiệu cho 
 Ngồi ngâm hậu môn trong nước ấm giúp cải thiện triệu chứng.
 dùng thuốcvới thể dùng các thuốc bôi hoặc nhét tại chỗ, thuốc hỗ trợ tuần hoàn tĩnh mạch
 
-<h3>7.2 Điều trị ngoại khoa</h3>
+7.2 Điều trị ngoại khoa
 
 Đối sở hữu các trường hợp trĩ có các biến chứng huyết khối: bệnh trĩ với huyết khối nên được can thiệp sớm bằng bí quyết thực hành bí quyết cắt bỏ theo những cách thức kinh điển hoặc hài hòa lấy huyết khối kèm cắt trĩ bằng các cách thức khác.
 Thủ thuật thắt búi trĩ bằng dây thun hoặc chích xơ huyết mạch tới nuôi búi trĩ, thường được áp dụng cho các trường hợp trĩ mức độ nhẹ
