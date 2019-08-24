@@ -23,6 +23,7 @@ Trĩ độ 3: mỗi lần đi cầu hoặc di chuyển nhiều, ngồi chồm h�
 Trĩ độ 4: búi trĩ sắp như không xuyên nằm ngoài ống hậu môn.
 
 https://doisongsuckhoe.webflow.io/posts/benh-tri-nguyen-nhan-trieu-chung-va-cach-dieu-tri-hieu-qua
+
 3. Nhân tố nguy cơ gây bệnh trĩ
 =====
 
