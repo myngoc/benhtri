@@ -1,4 +1,4 @@
-
+<html>
 <h1>1. Bệnh trĩ là gì?</h1>
 Bệnh trĩ ko chỉ thuần tuý là bệnh của tĩnh mạch. Đây là những bệnh của một hệ thống mạch máu từ tiểu động mạch, tĩnh mạch, thông nối động tĩnh mạch tới cơ suôn sẻ và mô liên kết được lót bởi lớp biểu mô thường ngày của ống hậu môn. Đám rối tĩnh mạch nằm ở lớp dưới niêm được nâng đỡ bởi cấu trúc mô sợi đàn hồi. Hiện trạng gia tăng áp lực thường xuyên như rặn đi cầu, kèm ứ máu liên tục sẽ dẫn tới phình giãn và tạo các búi trĩ vào trong lòng ống lỗ đít. Song song càng to tuổi, các cấu trúc mô kết liên nâng đỡ ngày một bị suy yếu, các búi trĩ tụt dần ra khỏi lỗ lỗ đít dẫn đến trĩ nội sa.
 
@@ -86,3 +86,5 @@ Thắt bằng dây thun-Vòng thắt cao su được đặt bao nói quanh nói 
 cách Longo (stapled hemorrhoidectomy-PPH, 1998) được thừa nhận ở phổ biến nước châu Âu, châu Á. Cách này đã trở thành một lựa chọn được chấp nhận phổ quát trong phẫu thuật cắt bỏ trĩ để điều trị trĩ nội độ 3 và độ 4. Ở Trung Quốc trong thập kỷ vừa qua, thậm chí nó với thiên hướng thay thế cho cắt bỏ trĩ truyền thống. Đây là bí quyết ko cắt trĩ mà nguyên lý là làm cho đứt quãng các huyết mạch trĩ trên và giữa, sau đó khâu niêm mạc hậu môn-trực tràng bị sa lên trên, đưa các búi trĩ về vị trí trong ống lỗ đít bởi vậy làm cho teo mô trĩ. Điểm tốt ít gây khó chịu hơn vì ko cắt bỏ vùng da lỗ đít.
 cách khâu triệt mạch THD được thực hành dưới chỉ dẫn siêu âm để khiến tắc mạch cung ứng máu cho lỗ đít, do đó làm giảm sự phình búi trĩ.
 Cắt trĩ bằng những phương pháp kinh điển: Miligan Morgan, Ferguson, White Head, những cách thức này can thiệp trực tiếp vào búi trĩ nên thường gây đau.
+
+</html>
