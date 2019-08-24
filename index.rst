@@ -22,8 +22,7 @@ Trĩ độ 2: khi thường ngày trĩ nằm gọn trong ống hậu môn, khi r
 Trĩ độ 3: mỗi lần đi cầu hoặc di chuyển nhiều, ngồi chồm hỗm, khiến việc nặng thì búi trĩ lại sa ra ngoài. Khi này phải nằm nghỉ 1 lúc búi trĩ mới tụt vào hoặc sử dụng tay đẩy nhẹ vào.
 Trĩ độ 4: búi trĩ sắp như không xuyên nằm ngoài ống hậu môn.
 
-Các cấp độ thường gặp ở bệnh trĩ
-
+https://doisongsuckhoe.webflow.io/posts/benh-tri-nguyen-nhan-trieu-chung-va-cach-dieu-tri-hieu-qua
 3. Nhân tố nguy cơ gây bệnh trĩ
 =====
 
