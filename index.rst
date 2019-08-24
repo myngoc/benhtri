@@ -1,4 +1,5 @@
-**Thông tin cơ bản về bệnh trĩ**
+Thông tin cơ bản về bệnh trĩ
+=======
 
 1. Bệnh trĩ là gì?
 ======
