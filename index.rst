@@ -76,8 +76,14 @@ Biến chứng của bệnh trĩ thì rất hãn hữu nhưng vẫn mang thể x
 
 Thiếu máu do mất máu mãn tính qua búi trĩ, lúc này thân thể sẽ không với đủ số lượng hồng cầu thiết yếu để thực hành bàn bạc Oxy cho tế bào. Trường hợp này hi hữu xảy ra.
 Nghẹt búi trĩ giả dụ búi trĩ sa và bị mắc kẹt khiến cho huyết quản máu cung ứng cho búi trĩ bị tắc. Khi này triệu chứng đau sẽ rất rõ ràng. Khi ấn nhẹ vào sẽ cảm giác lộm cộm do có cục máu đông.
+
 Tắc mạch: Là tình trạng hình thành cục máu đông bên trong huyết quản của búi trĩ. Khi huyết mạch bị giãn phồng và ứ máu do rặn, bưng vác nặng, có thai, chơi thể thao nặng làm cho tăng áp lực trong khoang bụng sẽ tạo điều kiện tiện dụng hình thành cục máu đông gây tắc mạch. Tắc mạch trĩ ngoại thì vùng rìa hậu môn sẽ thấy khối phồng nhỏ màu xanh, đi kèm cảm giác đau rát khi sờ, căng. Tắc mạch trong trĩ nội thì với cảm giác đau và cộm trong sâu và triệu chứng ko rầm rộ như trĩ ngoại.
+
 Viêm da vòng quanh lỗ đít, viêm nhú và viêm khe khi da giữa những búi trĩ bị loét gây triệu chứng ngứa ngáy, nóng rát.
+
+Ngoài ra, bệnh trĩ khi không điều trị sẽ ảnh hưởng, gây ra các bệnh liên quan khác về hậu môn trực tràng
+
+`Những bệnh về hậu môn trực tràng bạn nên biết <https://benh-hau-mon.readthedocs.io/en/latest/>`_
 
 7. Điều trị bệnh trĩ
 =====
