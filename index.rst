@@ -72,6 +72,8 @@ khi bị trĩ, bạn sẽ cảm thấy ngứa hoặc kích thích ở vùng lỗ
 6. Biến chứng của bệnh trĩ
 ======
 
+https://bienchungbenhtri.readthedocs.io/en/latest/
+
 Biến chứng của bệnh trĩ thì rất hãn hữu nhưng vẫn mang thể xảy ra bao gồm:
 
 Thiếu máu do mất máu mãn tính qua búi trĩ, lúc này thân thể sẽ không với đủ số lượng hồng cầu thiết yếu để thực hành bàn bạc Oxy cho tế bào. Trường hợp này hi hữu xảy ra.
