@@ -125,4 +125,6 @@ http://wikibenhtri.com/phong-kham-tri-tai-ha-noi-uy-tin-hien-nay-ban-co-biet.htm
 cách khâu triệt mạch THD được thực hành dưới chỉ dẫn siêu âm để khiến tắc mạch cung ứng máu cho lỗ đít, do đó làm giảm sự phình búi trĩ.
 Cắt trĩ bằng những phương pháp kinh điển: Miligan Morgan, Ferguson, White Head, những cách thức này can thiệp trực tiếp vào búi trĩ nên thường gây đau.
 
+https://readthedocs.org/projects/dia-chia-kham-chua-va-dieu-tri-benh-tri/
+https://cach-chua-benh-tri-tai-nha-an-toan.readthedocs.io/en/latest/
 
